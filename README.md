@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @farli1001
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning tailwind
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning many scope of tech industri
+- enjoy....
 
 <!---
 farli1001/farli1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
